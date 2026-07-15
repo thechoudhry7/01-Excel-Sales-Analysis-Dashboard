@@ -38,7 +38,7 @@ This project is an interactive Excel dashboard developed to analyze sales perfor
 
 ### KPI Dashboard
 
-![KPI Dashboard](Images/dashboard3.png)
+![KPI Dashboard](Images/Dashboard3.png)
 
 ---
 
