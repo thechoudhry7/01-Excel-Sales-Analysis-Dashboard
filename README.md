@@ -30,7 +30,7 @@ This project is an interactive Excel dashboard developed to analyze sales perfor
 
 ### Distribution Dashboard
 
-![Distribution Dashboard](Images/dashboard1.png)
+![Distribution Dashboard](Images/Dashboard1.png)
 
 ### Sales Dashboard
 
