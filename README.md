@@ -28,11 +28,17 @@ This project is an interactive Excel dashboard developed to analyze sales perfor
 
 ## 📷 Dashboard Preview
 
-> Upload a screenshot to the **Images** folder and replace the path below.
+### Distribution Dashboard
 
-```markdown
-![Dashboard](Images/dashboard.png)
-```
+![Distribution Dashboard](Images/dashboard1.png)
+
+### Sales Dashboard
+
+![Sales Dashboard](Images/dashboard2.png)
+
+### KPI Dashboard
+
+![KPI Dashboard](Images/dashboard3.png)
 
 ---
 
@@ -53,9 +59,17 @@ This project is an interactive Excel dashboard developed to analyze sales perfor
 01-Excel-Sales-Analysis-Dashboard
 │
 ├── README.md
-├── Excel Project 1 - Sales Analysis.xlsx
+├── LICENSE
+├── Sales Analysis Dashboard.xlsx
+│
+├── Dataset
+│   └── Sales Dataset.xlsx
+│
 └── Images
-    └── dashboard.png
+    ├── Dashboard1.png
+    ├── Dashboard2.png
+    └── Dashboard3.png
+
 ```
 
 ---
