@@ -30,15 +30,15 @@ This project is an interactive Excel dashboard developed to analyze sales perfor
 
 ### Distribution Dashboard
 
-![Distribution Dashboard](Images/dashboard1.png)
+[Distribution Dashboard](Images/dashboard1.png)
 
 ### Sales Dashboard
 
-![Sales Dashboard](Images/dashboard2.png)
+[Sales Dashboard](Images/dashboard2.png)
 
 ### KPI Dashboard
 
-![KPI Dashboard](Images/dashboard3.png)
+[KPI Dashboard](Images/dashboard3.png)
 
 ---
 
